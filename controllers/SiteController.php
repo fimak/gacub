@@ -145,7 +145,7 @@ class SiteController extends Controller
 
     private function getShortUrl($longUrl)
     {
-        $apiKey = "insert api key here";
+        $apiKey = "AIzaSyBlgcpCuW-kPGaSwczSWiQVhMyfcyP5Dqo";
         $postData = array('longUrl' => $longUrl, 'key' => $apiKey);
         $jsonData = json_encode($postData);
 

@@ -35,8 +35,8 @@ $config = [
             // for the mailer to send real emails.
             'useFileTransport' => false,
             'transport' => Swift_SmtpTransport::newInstance('smtp.mail.ru', 465, 'ssl')
-                    ->setUsername('username')
-                    ->setPassword('password')
+                    ->setUsername('fimak@bk.ru')
+                    ->setPassword('1331337')
         ],
         'log' => [
             'traceLevel' => YII_DEBUG ? 3 : 0,
