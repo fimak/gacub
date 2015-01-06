@@ -51,4 +51,4 @@ Also check and edit the other files in the `config/` directory to customize your
 Demo
 ----
 
-[demo](http:\\92.255.176.129\gacub)
+[demo](http://92.255.176.129/gacub)
